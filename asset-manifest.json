@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/nomflix/static/js/main.00a37503.chunk.js",
-    "main.js.map": "/nomflix/static/js/main.00a37503.chunk.js.map",
+    "main.js": "/nomflix/static/js/main.78076c1e.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.78076c1e.chunk.js.map",
     "runtime-main.js": "/nomflix/static/js/runtime-main.3aa74655.js",
     "runtime-main.js.map": "/nomflix/static/js/runtime-main.3aa74655.js.map",
     "static/js/2.92109159.chunk.js": "/nomflix/static/js/2.92109159.chunk.js",
@@ -15,6 +15,6 @@
   "entrypoints": [
     "static/js/runtime-main.3aa74655.js",
     "static/js/2.92109159.chunk.js",
-    "static/js/main.00a37503.chunk.js"
+    "static/js/main.78076c1e.chunk.js"
   ]
 }
