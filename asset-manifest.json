@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/nomflix/static/js/main.5455e0da.chunk.js",
-    "main.js.map": "/nomflix/static/js/main.5455e0da.chunk.js.map",
+    "main.js": "/nomflix/static/js/main.60e63c11.chunk.js",
+    "main.js.map": "/nomflix/static/js/main.60e63c11.chunk.js.map",
     "runtime-main.js": "/nomflix/static/js/runtime-main.c329d9c0.js",
     "runtime-main.js.map": "/nomflix/static/js/runtime-main.c329d9c0.js.map",
-    "static/js/2.a97eab99.chunk.js": "/nomflix/static/js/2.a97eab99.chunk.js",
-    "static/js/2.a97eab99.chunk.js.map": "/nomflix/static/js/2.a97eab99.chunk.js.map",
+    "static/js/2.61f6edf5.chunk.js": "/nomflix/static/js/2.61f6edf5.chunk.js",
+    "static/js/2.61f6edf5.chunk.js.map": "/nomflix/static/js/2.61f6edf5.chunk.js.map",
     "index.html": "/nomflix/index.html",
-    "static/js/2.a97eab99.chunk.js.LICENSE.txt": "/nomflix/static/js/2.a97eab99.chunk.js.LICENSE.txt",
+    "static/js/2.61f6edf5.chunk.js.LICENSE.txt": "/nomflix/static/js/2.61f6edf5.chunk.js.LICENSE.txt",
     "static/media/blackBG.png": "/nomflix/static/media/blackBG.152677e3.png",
     "static/media/noPosterBig.jpg": "/nomflix/static/media/noPosterBig.9fb7088f.jpg",
     "static/media/noPosterSmall.jpg": "/nomflix/static/media/noPosterSmall.65e7269e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.c329d9c0.js",
-    "static/js/2.a97eab99.chunk.js",
-    "static/js/main.5455e0da.chunk.js"
+    "static/js/2.61f6edf5.chunk.js",
+    "static/js/main.60e63c11.chunk.js"
   ]
 }
